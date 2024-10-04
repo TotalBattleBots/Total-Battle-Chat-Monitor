@@ -1,0 +1,80 @@
+{
+    "credentials": {
+        "373662155436": {
+            "clan_name": "FOC Stormriders",
+            "nickname" : "Stormriders",
+            "clan_kingdom": 100,
+            "session_key": "cdc13e5d07f3ac5a403e490cf9e634c1f5ab0359",
+            "access_token": "6cf71a56a02a99ecf88b749ebcd64554a93ad924"
+        },
+        "373662154937": {
+            "clan_name": "DTH VOV on 87",
+            "clan_kingdom": 87,
+            "session_key": "42f9d5c77baf6663762ab3211e208ce322d56e49",
+            "access_token": "901300bbed5f0e7885e05bbc3431ce3678ac7ca8"
+        },
+        "429496729956": {
+            "clan_name": "FOC Ghostriders on 100",
+            "clan_kingdom": 100,
+            "nickname": "Ghostriders",
+            "session_key": "19dbe835b876c7a5492eaf83a29231051b901daf",
+            "access_token": "74185547a8d4465d45af99118111f8e9279de3dd"
+        },
+        "317827583044": {
+            "clan_name": "FoC Katana on K500",
+            "clan_kingdom": 500,
+            "session_key": "713efde036087848717497466912431724be0337",
+            "access_token": "fcea3cc91927410e65fe5844b7e90f0229cb25e3"
+        },
+        "2147483648069": {
+            "clan_name": "FoC Sword",
+            "nickname": "Sword",
+            "clan_kingdom": 100,
+            "access_token": "9ff2f6638cc8ed0633168d75b4d85a035c53152e",
+            "session_key": "cc65ee99b3d2ec69da9492addb6f158d925b44f2"
+        },
+        "356482285618": {
+            "clan_name": "FOC-Bastards",
+            "nickname": "Bastards",
+            "clan_kingdom": 100,
+            "access_token": "2e0076bc2347d6f4a46c00460ff2f1d482ec9560",
+            "session_key": "33619f9934b2c2432fb0d60b10c0d1ecac2a957d"
+        },
+      "352187318294": {
+          "clan_name": "FoC Merchants",
+          "nickname": "Merchants",
+          "clan_kingdom": 100,
+          "access_token": "e389d41bca41bda1ebed7d1da98c0d59168b26bc",
+          "session_key": "b0c1ff0fa4a3a36168cd701980de4ac3ed931d49"
+      },
+      "373662155492": {
+          "clan_name": "FoC Shield",
+          "nickname": "Shield",
+          "clan_kingdom": 100,
+          "access_token": "6536064941de13edbbbb867731c53a119d48420f",
+          "session_key": "c1d98b8d1586ba57f9383e24ae563c4985e81f3b"
+      }
+    },
+
+    "webhooks": {
+        "373662155492": "https://discord.com/api/webhooks/1167270761627660288/Ui00s1ugB67HbR5fRv2Nww9D9pG8aSdYpt0bsnE9W_r2u0r_Dlx5hxmpLhxVuPaY8JAg",
+        "373662155436": "https://discord.com/api/webhooks/1144013632477331618/U2HZd4XP9ENUYP0WRM4pyBUXLhH2u_Ybv7wxLnumEZ7NtcFnPrpjR-PcGdaDI7rco9E6",
+        "317827583044": "https://discord.com/api/webhooks/1167269608194064464/4ddZZgyeUTfijAmQ9cL15NQQfaMfXvMc1VmJ2VPUYPjMrHV3w-Ej9MYzf_jWRxggbf3b",
+        "373662154937": "https://discord.com/api/webhooks/1144791248314568774/oXHEl0brqUmZctd7zvTMgvrbcBH247LSlctBMU8rr80Tz-qbjsGlFaOVXDTXHA0gs08W",
+        "429496729956": "https://discord.com/api/webhooks/1146873883090231468/LWzLA3wbzw9WyyHib0toz9Kk4inewmVwP01SABGGbWtw0nNJ8wqrGBAXGGLEqgioivZu",
+        "2147483648069": "https://discord.com/api/webhooks/1148723709251694652/8a9dD2lvS1t_TPT1LeJZdJ4_d8l9cdphbZzFh6zQc7goMhYeP0u1H4eCcPrmOf2W4_TP",
+        "356482285618": "https://discord.com/api/webhooks/1167244082477805629/EL9RCaZKZKvQEY9NlLah3r4YBN4nOnaopzprvLVlAexJsFEuup7jZcerlRVb4KiyNLLA",
+        "146028888242": "https://discord.com/api/webhooks/1166066045933604954/wUHA-kjWn9ODH8LezZ-7Bq_e29fIN7QKr-z7MAY1xjYb5dWP6ywTyZaB5M3diAFXXcKb",
+        "352187318294": "https://discord.com/api/webhooks/1167244632929878056/nUXIrQ-wG30vAVDfYxN6-chugaUU1o2T438DsCdzYFkgE-kiUGwxcwELz8qE4GysU5id"
+    },
+
+    "disabled": {
+        "146028888242": {
+          "clan_name": "ZCI",
+          "clan_kingdom": 99,
+          "access_token": "e2cfa7329c3c9e9205ff64e30c884348824bdd8f",
+          "session_key": "c2a04ac4259221ac58bb836fdc414c703e17d8bf"
+      }
+    }
+}
+

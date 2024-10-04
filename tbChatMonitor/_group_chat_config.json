@@ -1,0 +1,103 @@
+{
+    "group_chats": {
+        "sendbird_group_channel_89506092_4aa7d69a6011abf0d2b6e2bdd56c8e20828350f7": {
+            "webhook": "https://discord.com/api/webhooks/1165448489451397161/qsMQPj7j87OgV_ZxUzyidi00wCXD-hAxBJGBOHF1Z-ROOcqdzOvSpRQG34RXNEf9_azu",
+            "chat_name": "New Lance Leaders"
+        },
+        "sendbird_group_channel_114158915_248d71bcb2335e9203424304b0727f2eda4598ca": {
+            "webhook": "https://discord.com/api/webhooks/1149599436310319194/qY5V-rALHv0vxE8U1J22xihHnC5WH4_8npgQHsMySlgYT9igQ9ukvimp6Fr46MEY9O8i",
+            "chat_name": "!@Sword Attacks"
+        },
+        "sendbird_group_channel_89532212_141104d303e49fa009ceea9345f87376262bf22f": {
+            "chat_name": "++DoD++",
+            "webhook": "https://discord.com/api/webhooks/1144870160952467476/MZgjGYapfkOtTkKMYPLV25JXomJxS1RxPQ81Q9mYzKNYuz6VGPH_itdGHZMIU9R4z8Wh"
+        },
+        "triumph_group_1067903": {
+            "chat_name": "GLOBAL CHAT",
+            "webhook": "https://discord.com/api/webhooks/1144870387092553739/RSFr2SjHF-bPgmP1D58cRj1fD0cj7UT3YJ1VHrLi2zYoBZUWH8M77R_UvYwv0u7PlXMM"
+        },
+        "sendbird_group_channel_89506092_b7cd7371e2b8f536394abf0c79c39d70a4a5d2b1": {
+            "disabled": true,
+            "chat_name": "J4st20f4s",
+            "webhook": "https://discord.com/api/webhooks/1145435816877903892/Smf3yzLbuMkZacJbo53sUDGwR7wrZ7TKFqRZL2oS4Nzn56kH_eIuNnK6lyEbcz8DQiF0"
+        },
+        "sendbird_group_channel_136794052_6da8c18e35ecc007cba86c9705b0e7af01cfd99a": {
+            "disabled": true,
+            "chat_name": "triangle-triangle-triangle",
+            "webhook": "https://discord.com/api/webhooks/1146694192152723467/_VnUXIsBexUahdXB53AmBg4MTm8RQZU6BX7R7IV7ixcbRrUGzHCO8DVMjZEofn2u4NbU"
+        },
+        "sendbird_group_channel_114158915_bd875fe29fd5cc6735b579d37972b2e4e4796a11": {
+            "chat_name": "The Clan Chat",
+            "webhook": "https://discord.com/api/webhooks/1145829331134861433/_qxCQZC_zR2e_0Qk-uunyNbBJz9QlYtEpvgBxnCY_T2KSxSDVqhOQ5Hbg94bGbj9W7cX"
+        },
+        "sendbird_group_channel_295501357_f495fcb674825ab18d77ad6f9a6979a34995509a": {
+            "chat_name": "OST Superiors / Seniors",
+            "webhook": "https://discord.com/api/webhooks/1147909052718927963/IQX3bfxnJZXcXQrsk4EB-PAjUzNGfPlDo3vzCLnyOPwmvfNXG9QB9K5QgT8EBiCuoKgv"
+        },
+        "sendbird_group_channel_89497735_d81b6578a124cd3e76c6a7cac3ee381d43263be6": {
+            "chat_name": "IYI Superiors / Seniors",
+            "timestamp": false,
+            "webhook": "https://discord.com/api/webhooks/1147926612621410395/UL3upwY92YhUinJZ5QOQOjFP-5GpzMXLwsZaiMEYvAkk3e1Sw17BUCh1VOu1e8sgMDkn"
+        },
+        "sendbird_group_channel_89532768_76761a26c5eeaedb0305042bdf786bb812f76c31": {
+            "chat_name": "IOC Superior Chat - We Are The Best",
+            "webhook": "https://discord.com/api/webhooks/1147939153422581901/v7pO5TJtJtw8-Hq0-XqX6XMyfyIsCN23ori_EbuOX4MitqtWKVV33MDvStIXQvwxhjPH"
+        },
+        "sendbird_group_channel_89574875_7d9c6391aeb266bc1077fcaa933a365f70667747": {
+            "disabled": true,
+            "chat_name": "KWH - Clan Leaders - -*0=*4\"1\u00e9",
+            "webhook": "https://discord.com/api/webhooks/1147942876920164364/sN30ysQtd857CXeArJBWcQ6Ld5YpGjskQhKGe0o5g2W5Ot_pwHz31uz_fo9hQ9UGm0Vp"
+        },
+        "sendbird_group_channel_89579334_b105585f79b8717eb24ea67ecee21636b5ee0001": {
+            "chat_name": "KWH - Clan Superiors - @game mantinence@",
+            "webhook": "https://discord.com/api/webhooks/1147944999556751410/QXjMVhqcBq0RYK2eCgtA6q8hGg7WOMYPXGbOjLgrhrJ3_Sly0kujkP6Ouo7ryJ68NJXB"
+        },
+        "sendbird_group_channel_89544859_59df86691cf88363cc01d9a2e44d2b363e1a8748": {
+            "chat_name": "DOD-H Team leads",
+            "webhook": "https://discord.com/api/webhooks/1147983263135174797/UqI-lF4ND2yhtS43DPoPkufoY4EMB5Xv5yBN-j9PhyGsxmL7-GEGyomal0eX1_nfy6_W"
+        },
+        "sendbird_group_channel_89544859_8ae82419e9afd4760e6c51db375c093986baef8b": {
+            "webhook": "https://discord.com/api/webhooks/1147986772203155496/_2HQblM91JNVpsSuPkdTbgmXli3eL1C-UCCQ_wUrxB_Yq6L26xvVbJ4qCGNUfGAqcuMq",
+            "chat_name": "DOD Clan Leaders Chat"
+        },
+        "sendbird_group_channel_134205743_7650c272d6600bd7d20ed38c2a33fd58f330bde4": {
+            "chat_name": "DOD H East Group",
+            "webhook": "https://discord.com/api/webhooks/1147988570171256982/a9W2rCz5fr7TkY0DctNRZgfrS_N_o6pOvQKPUBKfp_clt-2EfuWxqGuij3wawvfyzbmk"
+        },
+        "sendbird_group_channel_89500197_039e39816fa0e9e80e4d2d35c8f2027792c5150c": {
+            "chat_name": "DOD H Delta Group - GA Team",
+            "webhook": "https://discord.com/api/webhooks/1147989195843961024/PbcEV-IOkSmmDdxlHEVsEuUQv1wo6WPTin9xbfcc5ifUkaKVh1zoDPZdrgGGYcvGPkTZ"
+        },
+        "sendbird_group_channel_89512383_0cbea056a42831b4537b01986e6f29fd94506b9c": {
+            "chat_name": "BBX Leaders Chat",
+            "webhook": "https://discord.com/api/webhooks/1148085893962420274/Gy3BoAhfUWjMe86DJ5AYPSq9AP9qlDHrUeznupBI_7mePm_ECNzHOjW5Sjk3HItKS1LZ"
+        },
+        "sendbird_group_channel_89544859_1e6fbc338807fbf8bb4515d5b2e8eaca0ea2abed": {
+            "webhook": "https://discord.com/api/webhooks/1148345308904956046/s1salNdMqy-1mA0iyt9mpSip4FU6zsXPJiaJaWhiqVw7Pf7I0oIa9KKg9aphWoNLNBW4",
+            "chat_name": "DOD |-| Chat"
+        },
+        "sendbird_group_channel_89500197_2333f6c01d90f3bf9c68ce1fe843024bb61916f0": {
+            "webhook": "https://discord.com/api/webhooks/1149137597789114368/_pLi-g8_z5c6CmBm2DRYM5TEWcj-pVmN1UTmsleruv2AlZO8Emt2QSvoRh_X7yecXc35",
+            "chat_name": "GOD (formerly DOD) executive force"
+        },
+        "sendbird_group_channel_102906659_37d8d07cd3504438668cdd7bd45e8c10b395fc48": {
+            "webhook": "https://discord.com/api/webhooks/1150560380494565377/1flOXqTpXw9MqXto712UogtDgY7EyzdgbmJGZ7g-xR3t7_nutwGohOhtQN_oya2TIlGt",
+            "chat_name": "DOD NV Sup chat"
+        },
+        "triumph_group_1099016":{
+            "webhook": "https://discord.com/api/webhooks/1165900496217854023/W6lJZrnn3_p_7CEktD5JG8KK-cv_7NLCrBSPuKbRdOpgrwV7qPMSSxRrq6M4qGFFxwdO",
+            "chat_name": "BUM Leader Chat"
+        },
+        "sendbird_group_channel_89529054_63cb36b606e2333b5a3fce1d50760f6a350d28b8": {
+            "chat_name": "DOD Team ADYIN",
+            "webhook": "https://discord.com/api/webhooks/1147990401366630482/sV-memabpWj7St-hGWkH4FkxFOKoqyj1Ty0RMtKMNDzJxJyljJ2LV74ip09CicbmcBw7"
+        },
+        "sendbird_group_channel_89532768_b39674b2ff214848d8af1784fcbbc82cb5b9bf91": {
+            "chat_name": "IOC Hunting Targets - There be Silver!",
+            "timestamp": true,
+            "webhook": "https://discord.com/api/webhooks/1147937334298423336/KvBYL6kZdvRDk-bHJUac2jCE4Mcug_Ryvk9yjGPFPVcwBu9Vj5jtB_b6EbkTzrmHlC34"
+        }
+    },
+    "disabled" : {
+   }
+}

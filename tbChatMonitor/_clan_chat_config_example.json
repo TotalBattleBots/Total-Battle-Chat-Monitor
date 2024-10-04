@@ -1,0 +1,14 @@
+{
+    "credentials": {
+        "373662154937": {
+            "clan_name": "DTH-VOV",
+            "clan_kingdom": 87,
+            "session_key": "42f9d5c77baf6663762ab3211e208ce322d56e49",
+            "access_token": "901300bbed5f0e7885e05bbc3431ce3678ac7ca8"
+        }
+    },
+
+    "webhooks": {
+        "373662154937": "https://discord.com/api/webhooks/1144791248314568774/oXHEl0brqUmZctd7zvTMgvrbcBH247LSlctBMU8rr80Tz-qbjsGlFaOVXDTXHA0gs08W"
+    }
+}

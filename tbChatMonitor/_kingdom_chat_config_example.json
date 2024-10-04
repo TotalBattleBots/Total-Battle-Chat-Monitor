@@ -1,0 +1,11 @@
+{
+    "credentials": {
+        "87": {
+            "session_key": "42f9d5c77baf6663762ab3211e208ce322d56e49",
+            "access_token": "901300bbed5f0e7885e05bbc3431ce3678ac7ca8"
+        }
+    },
+    "webhooks": {
+        "87": "https://discord.com/api/webhooks/1141427259849330860/zbUNY2hwf9gux8x49kNGL56ig1VT7SLctaxj-qSHo3GfQspFr0Zlyzw_kj9qqw4FWCR2"
+        }
+}

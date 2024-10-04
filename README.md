@@ -7,4 +7,6 @@ A personal request, please do not use the fuck that guy script, it is not someth
 
 Any questions please email totalbattlealt11@gmail.com
 
-If enough people are interested I will make a video explaining everything in here, but for now this is all you get. Go wild.
+If enough people are interested I will make a video explaining everything in here, but for now this is all you get. I believe everybody should have this power or nobody should have this power, since the devs will do nothing about it the only option is everybody. 
+
+Go wild.
